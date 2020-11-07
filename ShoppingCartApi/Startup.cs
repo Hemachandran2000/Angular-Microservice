@@ -46,6 +46,7 @@ namespace ShoppingCartApi
             services.AddScoped<IShoppingCart<SubCategoryModel>, SubCategory>();
             services.AddScoped<IUnitWork, UnitWork>();
             services.AddControllers();
+            //Calling Auth service lib using extension method
             services.AddTokenAuthentication(Configuration);
         }
 
