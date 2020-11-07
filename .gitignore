@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AuthService/bin/Debug/netcoreapp3.1
+/AuthService/obj
+/ShoppingCartApi/bin/Debug/netcoreapp3.1
+/ShoppingCartApi/obj
+/ShoppingCartDAL/bin/Debug/netstandard2.0
+/ShoppingCartDAL/obj
+/ShoppingCartDTO/obj
+/ShoppingCartDTO/bin/Debug/netstandard2.0
+/ShoppingCartEntity/bin/Debug/netstandard2.0
+/ShoppingCartEntity/obj
+/ShoppingInfra/bin/Debug/netstandard2.0
+/ShoppingInfra/obj
+/UserprofileApi/bin/Debug/netcoreapp3.1
+/UserprofileApi/obj
+/ShoppingCartApi/.vs/ShoppingCartApi
+/ShoppingInfra/.vs/ShoppingInfra
